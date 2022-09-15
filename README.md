@@ -4,6 +4,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cksgud410)](https://solved.ac/cksgud410/)
 
   <img src="http://mazandi.herokuapp.com/api?handle=cksgud410&theme=warm"/>
+  
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)

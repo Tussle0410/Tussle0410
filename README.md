@@ -1,6 +1,6 @@
 # Lee Chan Hyeong(Tussle0410) 👋
 
-![Tussle0410 GitHub stats](https://github-readme-stats.vercel.app/api?username=Tussle0410&show_icons=true&theme=radical)
+![Tussle0410 GitHub stats](https://github-readme-stats.vercel.app/api?username=Tussle0410&show_icons=true&theme=transparent)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cksgud410)](https://solved.ac/cksgud410/)
 
   <img src="http://mazandi.herokuapp.com/api?handle=cksgud410&theme=warm"/>

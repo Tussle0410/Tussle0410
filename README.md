@@ -1,6 +1,6 @@
 # Lee Chan Hyeong(Tussle0410) 👋
 
- <p align="center"><img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=Tussle0410&show_icons=true&locale=en&theme=chartreuse-dark&count_private=true&title_color=blue&hide_border=true&icon_color=blue&include_all_commits=true" alt="ovi" width="419" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tussle0410&show_icons=true&theme=merko)
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cksgud410)](https://solved.ac/cksgud410/)
 
